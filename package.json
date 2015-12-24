@@ -1,0 +1,15 @@
+{
+  "title": "Block cloudflare __cfduid cookie",
+  "name": "delcfduid",
+  "version": "0.0.1",
+  "description": "Simple addon to delete + block cookies named __cfduid",
+  "main": "index.js",
+  "author": "Alex Baines",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
